@@ -4,12 +4,12 @@
   "nodeSupportedVersionRange": ">= 9.0.0 <= 10.0.0",
   "projects": [
     {
-      "packageName": "lib1",
+      "packageName": "@rushjstest/lib1",
       "projectFolder": "lib1",
       "shouldPublish": true
     },
     {
-      "packageName": "lib2",
+      "packageName": "@rushjstest/lib2",
       "projectFolder": "lib2"
     }
   ]
