@@ -1,0 +1,17 @@
+{
+  "name": "lib1",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "4.16.3",
+    "webpack-cli": "3.1.0",
+    "lib2": "0.1.0"
+  }
+}

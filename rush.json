@@ -1,0 +1,16 @@
+{
+  "rushVersion": "5.0.0",
+  "pnpmVersion": "2.12.2",
+  "nodeSupportedVersionRange": ">= 9.0.0 <= 10.0.0",
+  "projects": [
+    {
+      "packageName": "lib1",
+      "projectFolder": "lib1",
+      "shouldPublish": true
+    },
+    {
+      "packageName": "lib2",
+      "projectFolder": "lib2"
+    }
+  ]
+}
